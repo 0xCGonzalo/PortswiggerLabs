@@ -1,2 +1,0 @@
-# PortswiggerLabs
-PortswiggerLabs
